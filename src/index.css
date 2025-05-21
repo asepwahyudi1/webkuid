@@ -4,3 +4,8 @@
 ::placeholder {
   @apply text-zinc-500;
 }
+
+input,
+textarea {
+  @apply text-zinc-800;
+}
